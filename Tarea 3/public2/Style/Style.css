@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
+
+p{
+    font-family: "Caveat", cursive;
+    font-size: 30px;
+    border:15px;
+    border-style:dashed;
+    border-color: rgb(220, 194, 156);
+    margin:20px
+}
+a{
+    font-family: "Caveat", cursive;
+    font-size: 21px;
+    border:5px;
+    border-style:double;
+    border-color: rgb(220, 194, 156);
+    margin:40px;
+}
+
+ul,ol,li{
+    font-family: "Caveat",cursive;
+    font-size: 25px;
+   
+
+}
+
+body{
+    background-image: url("../img/imagenpinterest.jpg");
+}
+h1{
+    font-family: "Caveat", cursive;
+    font-size: 42px;
+    border: 10px ridge;
+    border-color:navajowhite;
+    margin:20px;
+    background-color: rgb(181, 224, 210);
+    
+}
+h2{
+    font-family: "Caveat", cursive;
+    font-size: 42px;
+    border: 10px ridge;
+    border-color:navajowhite;
+    margin:20px;
+    background-color: rgb(181, 224, 210);
+    
+}
+h3{
+    font-family: "Caveat", cursive;
+    font-size: 42px;
+    border: 10px ridge;
+    border-color:navajowhite;
+    margin:20px;
+    background-color: rgb(181, 224, 210);
+    
+}
+
+iframe{
+    border: 10px double;
+    border-color:darkolivegreen;
+    background-color:rgb(181, 224, 210);;
+}
+
+img{
+    border:10px double;
+    border-color:darkolivegreen;
+    background-color: rgb(181, 224, 210);;
+}
